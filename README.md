@@ -47,11 +47,6 @@ A beginner PyTorch project exploring linear regression and gradient descent.
 - Training loop implementation
 - Saving and loading model parameters
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irbislover&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irbislover&layout=compact&hide_border=true&theme=transparent)
 
 ## 📚 Currently Learning
 
