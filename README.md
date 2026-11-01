@@ -54,9 +54,3 @@ A beginner PyTorch project exploring linear regression and gradient descent.
 - PyTorch and neural network architectures
 - Machine Learning mathematics
 - AI research and experimentation
-
----
-
-<p align="center">
-  <i>Building. Learning. Experimenting.</i>
-</p>
